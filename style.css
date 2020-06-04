@@ -1,0 +1,11 @@
+.red-box,.blue-box{
+height: 50px;
+width: 400px;
+}
+.red-box{
+background-color: red;
+}
+.blue-box{
+background-color: blue;   
+padding: 20px; 
+}
